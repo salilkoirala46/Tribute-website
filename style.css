@@ -1,0 +1,46 @@
+body{
+    font-family:"Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
+  background-color:#EEEEEE;
+}
+#title{
+  text-align:center;
+}
+#img-div{
+  margin:0 auto;
+  width:99%;
+  background-color:#FFF;
+  text-align:center;
+    padding:10px;
+}
+#img-div img{
+  width: 100%;
+height: auto;
+max-width: 625px;
+margin-left: auto;
+margin-right: auto;
+display: block;
+}
+
+#tribute-info{
+  display:block;
+  margin:auto;
+  width:35%;
+  text-align:center;
+    padding:10px;
+}
+
+#tribute-info ul{
+  display:inline-block;
+}
+#tribute-info ul li{
+  text-align:left;
+  padding-bottom:20px;
+}
+#link_page p{
+  text-align:center;
+  font-size:120%;
+}
+#tribute-link {
+  text-decoration:none;
+  color:#477CA7;
+}
